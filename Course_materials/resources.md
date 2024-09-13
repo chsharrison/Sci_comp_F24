@@ -6,16 +6,13 @@ Notebook viewer if github won't render:
 https://nbviewer.jupyter.org/
 
 Previous years' githubs:
-
+- https://github.com/chsharrison/IntroSciComp_S2021
 - https://github.com/chsharrison/IntroSciComp
 - https://github.com/moodycam/MARS-5470-4470
 
 Tutorials:
   - Hands on python
   http://anh.cs.luc.edu/handsonPythonTutorial/index.html
-
- - A very quick python intro:
-  http://123.physics.ucdavis.edu/week_8_files/Python.pdf
   
   - Scientific python lecture notes
   http://scipy-lectures.org

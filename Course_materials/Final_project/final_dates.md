@@ -1,4 +1,4 @@
-Final Project due dates
+**Final Project due dates**
 
 10/13 Project topics due
 

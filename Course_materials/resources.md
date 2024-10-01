@@ -57,6 +57,9 @@ Logistic Regression:
 Python for Atmospheric and Ocean Sciences, tons of resources, articles, talks:
   http://pyaos.johnny-lin.com/
 
+An Introduction to Earth and Environmental Data Science from Cornell:
+  https://earth-env-data-science.github.io/intro.html
+
 Machine Learning:
   https://scikit-learn.org/stable/index.html
   https://keras.io/
